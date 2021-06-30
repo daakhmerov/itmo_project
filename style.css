@@ -1,0 +1,41 @@
+body {
+  background-color: #f9f9f9;
+}
+.header__navbar-brand {
+  font-family: 'Jost', sans-serif;
+}
+.container {
+  margin-top: 2.5rem;
+}
+.card {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.card-title {
+  font-family: 'Jost', sans-serif;
+  font-weight: 500;
+}
+.card-img-top {
+  width: auto;
+  height: 300px;
+  object-fit: cover;
+  object-position: 20% 30%;
+}
+.link_white {
+  color: #b9b9b9;
+}
+.link_white:hover {
+  color: #ffffff;
+  transition: color 0.5s
+}
+.btn-outline-light {
+  border-color: #b9b9b9;
+}
+.btn-outline-light:hover {
+  border-color: #ffffff;
+  transition: color 0.5s
+}
+footer {
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
